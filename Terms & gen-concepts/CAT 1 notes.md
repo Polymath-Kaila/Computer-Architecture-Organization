@@ -1,4 +1,4 @@
-# SCO104 – Full Expanded Notes (Comprehensive CAT Preparation)
+# Computer Organization and Architecture
 
 ## 1. Computer Organization
 Computer Organization is the study of how a computer's hardware components are arranged and how they function internally. It explains the operational structure of the computer: how data moves, how instructions are executed, and how subsystems like the processor, memory, and input/output devices coordinate. It focuses on physical components and the control signals managing them.
